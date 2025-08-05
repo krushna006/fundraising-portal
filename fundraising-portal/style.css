@@ -1,0 +1,43 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f2f2f2;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 500px;
+  margin: 50px auto;
+  background-color: white;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+h1 {
+  color: #2b2d42;
+}
+
+p {
+  font-size: 18px;
+  color: #333;
+}
+
+.rewards {
+  margin-top: 30px;
+}
+
+.rewards ul {
+  list-style: none;
+  padding: 0;
+}
+
+.rewards li {
+  background-color: #edf2f4;
+  margin: 10px 0;
+  padding: 10px;
+  border-radius: 6px;
+  font-weight: bold;
+}
+   
